@@ -19,7 +19,7 @@ Jodi Makers provides the following features:
 
 - Create a profile
 - Swipe left or right on potential matches
-- View matches and chat with themhhhhhh
+- View matches and chat with them
 - Provide profile information
 - Search for matches based on preferences
 
